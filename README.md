@@ -1,4 +1,4 @@
-# grunt-merge-conflict
+# grunt-merge-conflict [![Build Status](https://secure.travis-ci.org/btford/grunt-merge-conflict.png?branch=master)](http://travis-ci.org/btford/grunt-merge-conflict)
 
 Grunt plugin for preventing you from accidentally comitting a merge conflict into your project.
 
